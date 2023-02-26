@@ -1,0 +1,6 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "username": "bh2754-tinker[bot]",
+  "gitAuthor": "bh2754-tinker <98030736+bh2754-tinker[bot]@users.noreply.github.com>",
+  "repositories": ["bh2754/containers-mirror"]
+}
