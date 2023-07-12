@@ -1,1 +1,1 @@
-FROM docker.io/maxmindinc/geoipupdate:v5.1
+FROM docker.io/maxmindinc/geoipupdate:v6.0
