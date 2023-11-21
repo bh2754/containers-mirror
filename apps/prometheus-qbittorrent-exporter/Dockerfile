@@ -1,1 +1,1 @@
-FROM docker.io/esanchezm/prometheus-qbittorrent-exporter:v1.2.0
+FROM docker.io/esanchezm/prometheus-qbittorrent-exporter:1.4.0
