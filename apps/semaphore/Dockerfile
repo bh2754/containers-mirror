@@ -1,1 +1,1 @@
-FROM docker.io/semaphoreui/semaphore:v2.9.45
+FROM docker.io/semaphoreui/semaphore:v2.9.56
